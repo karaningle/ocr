@@ -1,1 +1,1 @@
-web: python src/app_basic.py
+web: python app_basic.py
